@@ -1,0 +1,143 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<medicines>
+    <medicine>
+        <generic_name>Paracetamol</generic_name>
+        <about>
+            <type>Capsule</type>
+            <strength>500 mg</strength>
+            <drug_class> Aminopenicillins</drug_class>
+            <description>Relief and care for headache and fever</description>
+        </about>
+        <uses>
+            <treat_1>Treat infections of the ear, nose, and throat. </treat_1>
+            <treat_2>Treat Infections of the genitourinary tract. </treat_2>
+            <treat_3>Infections of the skin and skin structure. </treat_3>
+            <treat_4>Infections of the lower respiratory tract. </treat_4>
+            <treat_5>Cure bladder infections. </treat_5>
+        </uses>
+        <safety_tips>
+            <warning_1>Do not use this medication if you are allergic to amoxicillin or to any other penicillin antibiotic.</warning_1>
+            <warning_2>Amoxicillin can make birth control pills less effective. </warning_2>
+            <warning_3>Antibiotic medicines can cause diarrhea. </warning_3>
+        </safety_tips>
+        <company>
+             <manufacturer>UNILAB, Inc</manufacturer>
+        </company>
+        <retail>
+            <price>₱4.50</price>
+        </retail>
+    </medicine>
+
+    <medicine>
+        <generic_name>Cetirizine</generic_name>
+        <about>
+            <type>Tablet</type>
+            <strength>10 mg</strength>
+            <drug_class>Antihistamines</drug_class>
+            <description>An antihistamine used to relieve allergy symptoms. </description>
+        </about>
+        <uses>
+            <treat_1>Treat cold or allergy symptoms such as sneezing, itching, watery eyes, or  </treat_1>
+            <treat_2>Treat high fever.</treat_2>
+            <treat_3>Treat reactions to insect bites and stings.</treat_3>
+            <treat_4>Treat eczema. </treat_4>
+            <treat_5>Treat conjunctivitis (red, itchy eye) </treat_5>
+        </uses>
+        <safety_tips>
+            <warning_1>Cetirizine can cause side effects that may impair your thinking or reactions.</warning_1>
+            <warning_2>Avoid drinking alcoholic beverages while taking this medication. </warning_2>
+            <warning_3>Tell your doctor if you have or have ever had kidney or liver disease. </warning_3>
+        </safety_tips>
+        <company>
+             <manufacturer>Knoll Pharmaceuticals Ltd</manufacturer>
+        </company>
+        <retail>
+            <price>₱20.75 RM</price>
+        </retail>      
+    </medicine>
+
+    <medicine>
+        <generic_name> Ambroxol</generic_name>
+        <about>
+            <type>Syrup</type>
+            <strength> 5 ml</strength>
+            <drug_class>Mucolytic</drug_class>
+            <description>Ambroxol is kind of strong expectorant, clinically proven active mucolytic agent</description>
+        </about>
+        <uses>
+            <treat_1>It is used to relieve chronic inflammatory pulmonary conditions. </treat_1>
+            <treat_2>It is used to treat bronchiectasis, bronchitis with bronchospasm asthma.</treat_2>
+            <treat_3>The medicine has local anesthetic properties which contribute to the soothing effect of the syrup.</treat_3>
+            <treat_4>Treatment of respiratory diseases associated with viscid or excessive mucus.  </treat_4>
+            <treat_5>Ambroxol in this case relieves the patient from an excessive cough and thick sputum.</treat_5>
+        </uses>
+        <safety_tips>
+            <warning_1>Avoid using the medicine during the first trimester of pregnancy</warning_1>
+            <warning_2>Avoid drinking alcoholic beverages while taking this medication. </warning_2>
+            <warning_3>Don't take if you have asthma or asthma attacks </warning_3>
+        </safety_tips>
+        <company>
+             <manufacturer> Kala Amb Industrial Area</manufacturer>
+            
+        </company>
+        <retail>
+            <price>₱81.00</price>
+        </retail>
+    </medicine>
+ 
+    <medicine>
+        <generic_name>Neozep Forte</generic_name>
+        <about>
+            <type>Tablet</type>
+            <strength>10 mg / 2 mg / 500 mg</strength>
+            <drug_class>Analgesic-antipyretic</drug_class>
+            <description>For relief of cold and all its symptoms.</description>
+        </about>
+        <uses>
+            <treat_1>It is used to relieve relief of clogged nose. </treat_1>
+            <treat_2>It is used to treat body aches.</treat_2>
+            <treat_3>Fever associated with the common cold</treat_3>
+            <treat_4>Treatment minor respiratory tract infections.</treat_4>
+            <treat_5>A allergic rhinitis, sinusitis, and flu. </treat_5>
+        </uses>
+        <safety_tips>
+            <warning_1>This medicine should not be used in people who are taking antidepressant drugs.</warning_1>
+            <warning_2>Neozep should not be used in people who are allergic to certain drugs, especially the components contained in this medicine.</warning_2>
+            <warning_3>This medicine may cause drowsiness. ...</warning_3>
+        </safety_tips>
+        <company>
+             <manufacturer>PT. Medifarma Laboratories</manufacturer>
+        </company>
+        <retail>
+            <price>₱5.25</price>
+        </retail>
+    </medicine>
+
+     <medicine>
+        <generic_name>Cephalexin</generic_name>
+        <about>
+            <type>Capsule</type>
+            <strength>500 mg</strength>
+            <drug_class>Cephalosporin antibiotics</drug_class>
+            <description>Used to treat a wide variety of bacterial infectionsd</description>
+        </about>
+        <uses>
+            <treat_1>Respiratory tract infections</treat_1>
+            <treat_2>Skin and soft tissue infections</treat_2>
+            <treat_3>Genitourinary infections (urinary tract infections)</treat_3>
+            <treat_4>Sinusitis</treat_4>
+            <treat_5>Endocarditis prevention</treat_5>
+        </uses>
+        <safety_tips>
+            <warning_1>Do not take this drug again if you’ve ever had an allergic reaction to it before. </warning_1>
+            <warning_2>Cephalexin can cause a severe allergic reaction.</warning_2>
+            <warning_3>For people with kidney problems</warning_3>
+        </safety_tips>
+        <company>
+             <manufacturer>PT. Medifarma Laboratories</manufacturer>
+        </company>
+        <retail>
+            <price>₱9.50</price>
+        </retail> 
+    </medicine>
+</medicines>
