@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="utf-8" ?>
 <medicines>
-    <medicine>
+    <medicine id="1">
         <generic_name>Paracetamol</generic_name>
         <about>
             <type>Capsule</type>
@@ -9,11 +9,11 @@
             <description>Relief and care for headache and fever</description>
         </about>
         <uses>
-            <treat_1>Treat infections of the ear, nose, and throat. </treat_1>
-            <treat_2>Treat Infections of the genitourinary tract. </treat_2>
-            <treat_3>Infections of the skin and skin structure. </treat_3>
-            <treat_4>Infections of the lower respiratory tract. </treat_4>
-            <treat_5>Cure bladder infections. </treat_5>
+            <treatment_1>Treat infections of the ear, nose, and throat. </treatment_1>
+            <treatment_2>Treat Infections of the genitourinary tract. </treatment_2>
+            <treatment_3>Infections of the skin and skin structure. </treatment_3>
+            <treatment_4>Infections of the lower respiratory tract. </treatment_4>
+            <treatment_5>Cure bladder infections. </treatment_5>
         </uses>
         <safety_tips>
             <warning_1>Do not use this medication if you are allergic to amoxicillin or to any other penicillin antibiotic.</warning_1>
@@ -28,7 +28,7 @@
         </retail>
     </medicine>
 
-    <medicine>
+    <medicine id="2">
         <generic_name>Cetirizine</generic_name>
         <about>
             <type>Tablet</type>
@@ -37,11 +37,11 @@
             <description>An antihistamine used to relieve allergy symptoms. </description>
         </about>
         <uses>
-            <treat_1>Treat cold or allergy symptoms such as sneezing, itching, watery eyes, or  </treat_1>
-            <treat_2>Treat high fever.</treat_2>
-            <treat_3>Treat reactions to insect bites and stings.</treat_3>
-            <treat_4>Treat eczema. </treat_4>
-            <treat_5>Treat conjunctivitis (red, itchy eye) </treat_5>
+            <treatment_1>Treat cold or allergy symptoms such as sneezing, itching, watery eyes, or  </treatment_1>
+            <treatment_2>Treat high fever.</treatment_2>
+            <treatment_3>Treat reactions to insect bites and stings.</treatment_3>
+            <treatment_4>Treat eczema. </treatment_4>
+            <treatment_5>Treat conjunctivitis (red, itchy eye) </treatment_5>
         </uses>
         <safety_tips>
             <warning_1>Cetirizine can cause side effects that may impair your thinking or reactions.</warning_1>
@@ -56,7 +56,7 @@
         </retail>      
     </medicine>
 
-    <medicine>
+    <medicine id="3">
         <generic_name> Ambroxol</generic_name>
         <about>
             <type>Syrup</type>
@@ -65,11 +65,11 @@
             <description>Ambroxol is kind of strong expectorant, clinically proven active mucolytic agent</description>
         </about>
         <uses>
-            <treat_1>It is used to relieve chronic inflammatory pulmonary conditions. </treat_1>
-            <treat_2>It is used to treat bronchiectasis, bronchitis with bronchospasm asthma.</treat_2>
-            <treat_3>The medicine has local anesthetic properties which contribute to the soothing effect of the syrup.</treat_3>
-            <treat_4>Treatment of respiratory diseases associated with viscid or excessive mucus.  </treat_4>
-            <treat_5>Ambroxol in this case relieves the patient from an excessive cough and thick sputum.</treat_5>
+            <treatment_1>It is used to relieve chronic inflammatory pulmonary conditions. </treatment_1>
+            <treatment_2>It is used to treat bronchiectasis, bronchitis with bronchospasm asthma.</treatment_2>
+            <treatment_3>The medicine has local anesthetic properties which contribute to the soothing effect of the syrup.</treatment_3>
+            <treatment_4>Treatment of respiratory diseases associated with viscid or excessive mucus.  </treatment_4>
+            <treatment_5>Ambroxol in this case relieves the patient from an excessive cough and thick sputum.</treatment_5>
         </uses>
         <safety_tips>
             <warning_1>Avoid using the medicine during the first trimester of pregnancy</warning_1>
@@ -78,14 +78,13 @@
         </safety_tips>
         <company>
              <manufacturer> Kala Amb Industrial Area</manufacturer>
-            
         </company>
         <retail>
             <price>₱81.00</price>
         </retail>
     </medicine>
  
-    <medicine>
+    <medicine id="4">
         <generic_name>Neozep Forte</generic_name>
         <about>
             <type>Tablet</type>
@@ -94,11 +93,11 @@
             <description>For relief of cold and all its symptoms.</description>
         </about>
         <uses>
-            <treat_1>It is used to relieve relief of clogged nose. </treat_1>
-            <treat_2>It is used to treat body aches.</treat_2>
-            <treat_3>Fever associated with the common cold</treat_3>
-            <treat_4>Treatment minor respiratory tract infections.</treat_4>
-            <treat_5>A allergic rhinitis, sinusitis, and flu. </treat_5>
+            <treatment_1>It is used to relieve relief of clogged nose. </treatment_1>
+            <treatment_2>It is used to treat body aches.</treatment_2>
+            <treatment_3>Fever associated with the common cold</treatment_3>
+            <treatment_4>Treatment minor respiratory tract infections.</treatment_4>
+            <treatment_5>A allergic rhinitis, sinusitis, and flu. </treatment_5>
         </uses>
         <safety_tips>
             <warning_1>This medicine should not be used in people who are taking antidepressant drugs.</warning_1>
@@ -113,7 +112,7 @@
         </retail>
     </medicine>
 
-     <medicine>
+     <medicine id="5">
         <generic_name>Cephalexin</generic_name>
         <about>
             <type>Capsule</type>
@@ -122,11 +121,11 @@
             <description>Used to treat a wide variety of bacterial infectionsd</description>
         </about>
         <uses>
-            <treat_1>Respiratory tract infections</treat_1>
-            <treat_2>Skin and soft tissue infections</treat_2>
-            <treat_3>Genitourinary infections (urinary tract infections)</treat_3>
-            <treat_4>Sinusitis</treat_4>
-            <treat_5>Endocarditis prevention</treat_5>
+            <treatment_1>Respiratory tract infections</treatment_1>
+            <treatment_2>Skin and soft tissue infections</treatment_2>
+            <treatment_3>Genitourinary infections (urinary tract infections)</treatment_3>
+            <treatment_4>Sinusitis</treatment_4>
+            <treatment_5>Endocarditis prevention</treatment_5>
         </uses>
         <safety_tips>
             <warning_1>Do not take this drug again if you’ve ever had an allergic reaction to it before. </warning_1>
